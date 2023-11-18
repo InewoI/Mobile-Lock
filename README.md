@@ -1,4 +1,4 @@
-This Is My Private Dh Lock Script
+This Is My Mobile Lock Script
 
 U Can Use It If You Want I Dont Care
 
@@ -20,7 +20,7 @@ Silent Aim Non CustomIzable, Helps With The Camlock Hitting Shots
 
 Thats All
 
-Btw Lock Keybind Is Q
+Go Into Invetory For Lock Button
 
 
 
